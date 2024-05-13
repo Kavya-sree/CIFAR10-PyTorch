@@ -10,5 +10,5 @@ The CIFAR-10 (Canadian Institute for Advanced Research, 10 classes) dataset has 
 
 ### Files
 
-(mean_std.ipynb)[mean_std.ipynb]: In this file, I calculated the mean and standard deviation of the dataset.
-(CNN_CIFAR10.ipynb)[CNN_CIFAR10.ipynb]: Checking the images, defining and training the CNN model, and testing the model.
+*[mean_std.ipynb]: In this file, I calculated the mean and standard deviation of the dataset.
+* [CNN_CIFAR10.ipynb]: Checking the images, defining and training the CNN model, and testing the model.
